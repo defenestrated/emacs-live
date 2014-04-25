@@ -1,0 +1,25 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("deck statuses"
+ (filename . "/Applications/MAMP/htdocs/veritas/assets/dial.js")
+ (front-context-string . "\n    bonus2x: [3")
+ (rear-context-string . "ar deckstati = {")
+ (position . 525))
+("setup decks"
+ (filename . "/Applications/MAMP/htdocs/veritas/assets/dialmockup.js")
+ (front-context-string . "\n    // this is ")
+ (rear-context-string . "n setupdecks() {")
+ (position . 2752))
+("render fn"
+ (filename . "/Applications/MAMP/htdocs/veritas/assets/dial.js")
+ (front-context-string . "\n\n  function ren")
+ (rear-context-string . "\n	}\n\n  // RENDER")
+ (position . 11970))
+("d3 dot appends + transforms"
+ (filename . "/Applications/MAMP/htdocs/veritas/assets/dialmockup.js")
+ (front-context-string . "\n				  .attr(\"cl")
+ (rear-context-string . "append(\"circle\")")
+ (position . 3420))
+)

@@ -219,3 +219,5 @@
     (setq custom-file (concat live-custom-dir "custom-configuration.el")))
 (when (file-exists-p custom-file)
   (load custom-file))
+(put 'upcase-region 'disabled nil)
+(put 'downcase-region 'disabled nil)
